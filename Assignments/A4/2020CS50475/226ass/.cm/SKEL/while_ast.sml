@@ -1,0 +1,2 @@
+Skeleton 5
+d5Cf4d"Int"d"Tree"d"TextIO"d"Control"aä¢WhileLrVals"jh1aä¢Token"gp2ä¢LrParser"ÿ8gp1e"WhileLrValsFun"aä¢WhileLex"jh1aä¢Tokens"gp2ÿ&ÿ4gp1e"WhileLexFun"ad"WhileParser"jh3aä¢ParserData"gp2ÿ&ÿ‚)ad"Lex"gp1ÿ%aÿgp1ÿgp1e"JoinWithArg"ad"While"jè0ÿƒ0N

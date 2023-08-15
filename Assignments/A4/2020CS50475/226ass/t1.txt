@@ -1,0 +1,4 @@
+program trial1::
+    var A: int;
+{
+}

@@ -1,0 +1,13 @@
+program trial4 ::
+
+    var A, B, C, D : int;
+    var E : bool;
+
+{
+    A := A*B+C/D%A;
+    B := A-B-C-D;
+    C := A*(C+B)+~D;
+    E := (A) >= (C < D <= B);
+    D := 1 + 4 - ~ ~D;
+    E := A > B < E > tt;
+}

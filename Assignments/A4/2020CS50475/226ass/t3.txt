@@ -1,0 +1,12 @@
+program trial3 ::
+    var A, B, C, D: int;
+    var E, F: bool;
+{
+    A := ff + tt;
+    B := tt && ff;
+    c := 11 || 2;
+    while(A<>B) {
+        write(69);
+    }
+    endwh;
+}
